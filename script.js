@@ -4,12 +4,12 @@ let evolutionText = []
 let i = 0
 let item = [] = document.querySelectorAll(".item")
 
-imgSrc[0] = "/imagens/cartoesPerfurados.jpg"
-imgSrc[1] = "/imagens/eniacComputador.webp"
-imgSrc[2] = "/imagens/segundaGeracao.webp"
-imgSrc[3] = "/imagens/terceiraGeracao.webp"
-imgSrc[4] = "/imagens/quartaGeracao.webp"
-imgSrc[5] = "/imagens/celular.webp"
+imgSrc[0] = "./imagens/cartoesPerfurados.jpg"
+imgSrc[1] = "./imagens/eniacComputador.webp"
+imgSrc[2] = "./imagens/segundaGeracao.webp"
+imgSrc[3] = "./imagens/terceiraGeracao.webp"
+imgSrc[4] = "./imagens/quartaGeracao.webp"
+imgSrc[5] = "./imagens/celular.webp"
 
 evolutionText[0] = "No início da computação, os  computadores eram enormes, nada acessíveis ao público geral e ocupavam salas inteiras. Não haviam interfaces, todas as instruções necessárias eram feitas por cartões perfurados ou fitas magnéticas. Depois de dias, os resultados eram apresentados e caso houvesse algum erro, era necessário refazer todo o processo."
 evolutionText[1] = "<strong>Primeira Geração</strong><br>Nessa geração, os computadores funcionavam por meio de circuitos e válvulas eletrônicas, consumindo muita energia. O computador ao lado foi um desses, chamado ENIAC."
